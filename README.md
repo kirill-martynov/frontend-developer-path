@@ -1,14 +1,37 @@
 # frontend-developer-path
 
 ## Udemy:
-  - [Data Structures & Algorithms - JavaScript](https://www.udemy.com/course/data-structures-algorithms-javascript/)
-  - [Design Patterns in TypeScript](https://www.udemy.com/course/design-patterns-typescript/)
-  - [JavaScript: The Advanced Concepts (2021)](https://www.udemy.com/course/advanced-javascript-concepts/)
-  - [JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/)
-  - [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
-  - [Typescript: The Complete Developer's Guide](https://www.udemy.com/course/typescript-the-complete-developers-guide/)
-  - [Understanding TypeScript - 2021 Edition](https://www.udemy.com/course/understanding-typescript/)
-  - [React and Typescript: Build a Portfolio Project](https://www.udemy.com/course/react-and-typescript-build-a-portfolio-project/)
+  - ### Javascript: 
+    - [The Modern Javascript Bootcamp Course (2021)](https://www.udemy.com/course/javascript-beginners-complete-tutorial/)
+    - [JavaScript: The Advanced Concepts (2021)](https://www.udemy.com/course/advanced-javascript-concepts/)
+    - [JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/)
+    - [JavaScript - The Complete Guide 2021 (Beginner + Advanced)](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/)
+
+  - ### Data Structures & Algorithms:
+    - [Data Structures & Algorithms - JavaScript](https://www.udemy.com/course/data-structures-algorithms-javascript/)
+    - [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
+    - [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
+
+  - ### React.js:
+    - [2021 Update! React Testing with Jest and Enzyme](https://www.udemy.com/course/react-testing-with-jest-and-enzyme/)
+    - [React, NodeJS, Express & MongoDB - The MERN Fullstack Guide](https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/)
+    - [Build an app with React, Redux and Firestore from scratch](https://www.udemy.com/course/build-an-app-with-react-redux-and-firestore-from-scratch/)
+
+  - ### Typescript:
+    - [Typescript: The Complete Developer's Guide](https://www.udemy.com/course/typescript-the-complete-developers-guide/)
+    - [Understanding TypeScript - 2021 Edition](https://www.udemy.com/course/understanding-typescript/)
+    - [Design Patterns in TypeScript](https://www.udemy.com/course/design-patterns-typescript/)
+    - [React and Typescript: Build a Portfolio Project](https://www.udemy.com/course/react-and-typescript-build-a-portfolio-project/)
+
+  - ### Node.js:
+    - [The Complete Node.js Developer Course (3rd Edition)](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
+    - [Node with React: Fullstack Web Development](https://www.udemy.com/course/node-with-react-fullstack-web-development/)
+    - [Node.js, Express, MongoDB & More: The Complete Bootcamp 2021](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/)
+
+  - ### GraphQL & Apollo & Next.js:
+    - [Next.js and Apollo - Portfolio App (w/ React, GraphQL, Node)](https://www.udemy.com/course/nextjs-and-apollo-portfolio-app-w-react-graphql-node/)
+    - [Complete Next.js with React & Node - Beautiful Portfolio App](https://www.udemy.com/course/awesome-nextjs-with-react-and-node-amazing-portfolio-app/)
+    - [The Modern GraphQL Bootcamp (with Node.js and Apollo)](https://www.udemy.com/course/graphql-bootcamp/)
 ## Frontend Masters:
 
 - ### Beginner:
