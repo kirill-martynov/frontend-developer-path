@@ -1,5 +1,14 @@
 # frontend-developer-path
 
+## Udemy:
+  - [Data Structures & Algorithms - JavaScript](https://www.udemy.com/course/data-structures-algorithms-javascript/)
+  - [Design Patterns in TypeScript](https://www.udemy.com/course/design-patterns-typescript/)
+  - [JavaScript: The Advanced Concepts (2021)](https://www.udemy.com/course/advanced-javascript-concepts/)
+  - [JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/)
+  - [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
+  - [Typescript: The Complete Developer's Guide](https://www.udemy.com/course/typescript-the-complete-developers-guide/)
+  - [Understanding TypeScript - 2021 Edition](https://www.udemy.com/course/understanding-typescript/)
+  - [React and Typescript: Build a Portfolio Project](https://www.udemy.com/course/react-and-typescript-build-a-portfolio-project/)
 ## Frontend Masters:
 
 - ### Beginner:
