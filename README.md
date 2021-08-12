@@ -6,6 +6,19 @@
     - [JavaScript: The Advanced Concepts (2021)](https://www.udemy.com/course/advanced-javascript-concepts/)
     - [JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/)
     - [JavaScript - The Complete Guide 2021 (Beginner + Advanced)](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/)
+    - [Functional Programming For Beginners With JavaScript](https://www.udemy.com/course/functional-programming-for-beginners-with-javascript/)
+    - [Functional Programming in JavaScript: A Practical Guide](https://www.udemy.com/course/functional-programming-in-javascript-a-practical-guide/)
+    - [JavaScript Masterclass 2021: Modern & Comprehensive](https://www.udemy.com/course/js-masterclass/)
+    - [Advanced Javascript](https://www.udemy.com/course/javascript-advanced/)
+    - [Design Patterns in JavaScript](https://www.udemy.com/course/design-patterns-javascript/)
+    - [Asynchronous JavaScript Deep Dive](https://www.udemy.com/course/asynchronous-javascript-deep-dive/)
+    - [Accelerated JavaScript Training](https://www.udemy.com/course/javascript-bootcamp-2016/)
+    - [JavaScript Masterclass 2021: Modern & Comprehensive](https://www.udemy.com/course/js-masterclass/)
+    - [JavaScript Interview Prep: Practice Problems](https://www.udemy.com/course/javascript-interview-prep/)
+    - [Functional Programming in JavaScript: A Practical Guide](https://www.udemy.com/course/functional-programming-in-javascript-a-practical-guide/)
+    - [Asynchronous JavaScript](https://www.udemy.com/course/asynchronous-javascript/)
+    - [Mastering Regular Expressions in JavaScript](https://www.udemy.com/course/mastering-regular-expressions-in-javascript/)
+    - [Advanced JavaScript Topics](https://www.udemy.com/course/learn-modern-javascript-advanced-topics/)
 
   - ### Data Structures & Algorithms:
     - [Data Structures & Algorithms - JavaScript](https://www.udemy.com/course/data-structures-algorithms-javascript/)
@@ -31,7 +44,11 @@
   - ### GraphQL & Apollo & Next.js:
     - [Next.js and Apollo - Portfolio App (w/ React, GraphQL, Node)](https://www.udemy.com/course/nextjs-and-apollo-portfolio-app-w-react-graphql-node/)
     - [Complete Next.js with React & Node - Beautiful Portfolio App](https://www.udemy.com/course/awesome-nextjs-with-react-and-node-amazing-portfolio-app/)
+    - [Next.js & React - The Complete Guide (incl. Two Paths!)](https://www.udemy.com/course/nextjs-react-the-complete-guide/)
     - [The Modern GraphQL Bootcamp (with Node.js and Apollo)](https://www.udemy.com/course/graphql-bootcamp/)
+  
+  - ### Databases:
+    - [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/)
 ## Frontend Masters:
 
 - ### Beginner:
