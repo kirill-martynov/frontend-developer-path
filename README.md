@@ -8,6 +8,7 @@
   - [CSS Grids and Flexbox for Responsive Web Design](https://frontendmasters.com/courses/css-grids-flexbox/)
   - [JavaScript: From Fundamentals to Functional JS, v2](https://frontendmasters.com/courses/js-fundamentals-functional-v2/)
   - [Website Accessibility, v2](https://frontendmasters.com/courses/accessibility-v2/)
+  ### Elective Courses:
   - [Introduction to Dev Tools, v3](https://frontendmasters.com/courses/dev-tools/)
   - [Modern Search Engine Optimization (SEO)](https://frontendmasters.com/courses/modern-seo/)
 
@@ -23,3 +24,12 @@
   - [CSS In-Depth, v2](https://frontendmasters.com/courses/css-in-depth-v2/)
   - [Full Stack for Front-End Engineers, v2](https://frontendmasters.com/courses/fullstack-v2/)
   - [TypeScript Fundamentals, v3](https://frontendmasters.com/courses/typescript-v3/)
+  ### Elective Courses:
+  - [Complete Intro to Linux and the Command-Line](https://frontendmasters.com/courses/linux-command-line/)
+  - [Introduction to Node.js](https://frontendmasters.com/courses/node-js/)
+  - [Client-Side GraphQL in React](https://frontendmasters.com/courses/client-graphql-react/)
+  - [Complete Intro to Containers (feat. Docker)](https://frontendmasters.com/courses/complete-intro-containers/)
+  - [Design for Developers](https://frontendmasters.com/courses/design-for-developers/)
+  - [SVG Essentials & Animation, v2](https://frontendmasters.com/courses/svg-essentials-animation/)
+
+  
