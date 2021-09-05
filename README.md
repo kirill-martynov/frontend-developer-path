@@ -81,6 +81,27 @@
   - [Design for Developers](https://frontendmasters.com/courses/design-for-developers/)
   - [SVG Essentials & Animation, v2](https://frontendmasters.com/courses/svg-essentials-animation/)
 
+<br />
+<br />
+
+- ### Expert
+  - [JavaScript: The New Hard Parts](https://frontendmasters.com/courses/javascript-new-hard-parts/)
+  - [JavaScript Performance](https://frontendmasters.com/courses/web-performance/)
+  - [Functional-Light JavaScript, v3](https://frontendmasters.com/courses/functional-javascript-v3/)
+  - [State Machines in JavaScript with XState](https://frontendmasters.com/courses/xstate/)
+  - [Git In-depth](https://frontendmasters.com/courses/git-in-depth/)
+  - [Web Assembly](https://frontendmasters.com/courses/web-assembly/)
+  - [Hardcore Functional Programming in JavaScript, v2](https://frontendmasters.com/courses/hardcore-js-v2/)
+  - [Asynchronous Programming in JavaScript (with Rx.js Observables)](https://frontendmasters.com/courses/asynchronous-javascript/)
+
+
+  #### Elective Courses:
+  - [Web Security](https://frontendmasters.com/courses/web-security/)
+  - [JavaScript and TypeScript Monorepos](https://frontendmasters.com/courses/monorepos/)
+  - [Enterprise Architecture Patterns](https://frontendmasters.com/courses/enterprise-patterns/)
+  - [Hardcore Functional Architecture Patterns in JavaScript](https://frontendmasters.com/courses/hardcore-js-patterns/)
+  - [Exploring Service Workers](https://frontendmasters.com/courses/service-workers/)
+  - [Building Your Own Programming Language](https://frontendmasters.com/courses/programming-language/)
 
 ## Hexlet:
   - ### Frontend:
